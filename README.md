@@ -79,15 +79,3 @@ TickTask is a modern productivity tool designed to simplify task management and 
 ## Conclusion
 
 TickTask is a feature-rich app designed to simplify task management and improve productivity. Its drag-and-drop interface, integrated timer functionality, Todoist API synchronization, and customizable features make it an ideal tool for individuals managing a single project. With a focus on usability, flexibility, and a delightful user experience, TickTask helps users stay organized and efficient.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-### Resources
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
