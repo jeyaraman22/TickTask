@@ -1,0 +1,8 @@
+# find generated files in ${FLUTTER_PROJECT}/.dart_tool/flutter_gen/gen_l10n.
+# Add the import statement on app_localizations.dart and AppLocalizations.delegate
+# in your call to the constructor for MaterialApp:
+# import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
